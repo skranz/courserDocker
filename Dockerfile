@@ -1,4 +1,4 @@
-FROM skranz/rskranz
+FROM skranz/rskranz:latest
 
 MAINTAINER Sebastian Kranz "sebastian.kranz@uni-ulm.de"
 
