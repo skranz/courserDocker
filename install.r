@@ -50,6 +50,7 @@ from.github = function(pkg, lib = path, ref="master", overwrite = glob.overwrite
 
 from.cran("hwriter")
 from.cran("sendmailR")
+from.cran("highcharter")
 
 from.github(lib=path,"skranz/webforms",ref = "master")
 from.github(lib=path,"skranz/shinyEventsLogin",ref = "master")
