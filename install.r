@@ -58,7 +58,7 @@ from.github(lib=path,"skranz/webforms",ref = "master")
 from.github(lib=path,"skranz/shinyEventsLogin",ref = "master")
 from.github(lib=path,"skranz/armd",ref = "master")
 from.github(lib=path,"skranz/RTutor2",ref = "master")
-
+from.github(lib=path,"skranz/MathjaxLocal")
 
 cat("\n\nFailed installations:\n")
 print(failed)
