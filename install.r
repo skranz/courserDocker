@@ -49,6 +49,8 @@ from.github = function(pkg, lib = path, ref="master", overwrite = glob.overwrite
 }
 
 from.cran("hwriter")
+from.cran("stargazer")
+from.cran("plotly")
 #from.cran("sendmailR")
 from.cran("highcharter")
 #from.cran("XML")
