@@ -48,6 +48,7 @@ from.github = function(pkg, lib = path, ref="master", overwrite = glob.overwrite
 
 }
 
+from.cran("scales")
 from.cran("hwriter")
 from.cran("stargazer")
 from.cran("plotly")
