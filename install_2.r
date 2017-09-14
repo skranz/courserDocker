@@ -48,6 +48,8 @@ from.github = function(pkg, lib = path, ref="master", overwrite = glob.overwrite
 
 }
 
+from.github(lib=path,"skranz/bbsvg",ref = "master")
+from.github(lib=path,"skranz/latexsvg",ref = "master")
 
 from.github(lib=path,"skranz/courserClicker",ref = "master")
 from.github(lib=path,"skranz/courserPeerquiz",ref = "master")
