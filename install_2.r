@@ -50,6 +50,7 @@ from.github = function(pkg, lib = path, ref="master", overwrite = glob.overwrite
 
 
 from.github(lib=path,"skranz/courserClicker",ref = "master")
+from.github(lib=path,"skranz/courserPeerquiz",ref = "master")
 from.github(lib=path,"skranz/courser",ref = "master")
 
 
