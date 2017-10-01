@@ -53,7 +53,7 @@ from.github(lib=path,"skranz/bbsvg",ref = "master")
 
 from.github(lib=path,"skranz/courserClicker",ref = "master")
 from.github(lib=path,"skranz/courserPeerquiz",ref = "master")
-from.github(lib=path,"skranz/courserHomeslides",ref = "master")
+from.github(lib=path,"skranz/courserHomeSlides",ref = "master")
 from.github(lib=path,"skranz/courser",ref = "master")
 
 
